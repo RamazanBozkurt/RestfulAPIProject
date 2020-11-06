@@ -1,4 +1,4 @@
-class ProfileUI {
+class ProfileUI { 
     constructor() {
         // html sayfasındaki profil bilgisinin geleceği div
         this.profileContainer = document.querySelector("#profileContainer");

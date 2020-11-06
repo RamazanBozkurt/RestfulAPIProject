@@ -1,4 +1,4 @@
-class Profile {
+class Profile { 
     constructor (){
         this.clientId = "",
         this.clientSecret = ""

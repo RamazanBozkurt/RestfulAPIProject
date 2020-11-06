@@ -1,4 +1,4 @@
-const profile = new Profile();
+const profile = new Profile(); 
 const ui = new ProfileUI();
 const searchProfile = document.querySelector("#searchProfile");
 searchProfile.addEventListener("keyup", (event) => {
